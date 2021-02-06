@@ -1,0 +1,11 @@
+body {
+  background: #e9eaed;
+  font-family: 'Oswald', sans-serif;
+}
+
+.App {
+  /* w celu responsywności, ustawiamy procenty oraz wartość na 90, aby nie zajmowało całej strony */
+  width: 90%;
+  /* aby zawsze było wyśrodkowane */
+  margin: 0 auto;
+}
